@@ -35,7 +35,10 @@ Rules:
   Reserved words (like JavaScript keywords) cannot be used as names.
 
 #In JavaScript, the equal sign (=) is an "assignment" operator, not an "equal to" operator.
-#
+
+#Variables declared with the var always have Global Scope.
+#Variables defined with let can not be redeclared.
+#Variables defined with var can be redeclared.
 
 
 
